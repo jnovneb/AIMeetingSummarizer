@@ -1,0 +1,10 @@
+Flask>=2.0
+flask-cors
+python-dotenv
+vosk
+langchain>=0.0.200
+langchain-community
+pydub
+minio
+reportlab
+requests

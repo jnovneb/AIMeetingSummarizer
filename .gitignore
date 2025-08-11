@@ -1,0 +1,16 @@
+# Ignore Python virtual environment folder
+.venv/
+
+# Ignore Python cache folders
+/backend/__pycache__/
+/backend/services/__pycache__/
+
+# Ignore Vosk model folders
+/backend/models/vosk-model-small-en-us-0.15/
+/backend/models/vosk-model-small-es-0.42/
+
+# Ignore environment file with secrets
+/backend/.env
+
+# Ignore frontend node_modules
+/frontend/node_modules/
